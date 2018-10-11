@@ -1,0 +1,613 @@
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\ApplicationInsights.config
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\PertaminaSLA.dll.config
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\PertaminaSLA.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\PertaminaSLA.pdb
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\csc.exe
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\csc.exe.config
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\csc.rsp
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\csi.exe
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\csi.exe.config
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\csi.rsp
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.AppContext.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Collections.Immutable.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Console.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.IO.Compression.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.IO.FileSystem.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.IO.Pipes.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Security.AccessControl.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Security.Claims.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Threading.Thread.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.ValueTuple.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Xml.XPath.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\vbc.exe
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\vbc.exe.config
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\vbc.rsp
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\VBCSCompiler.exe
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\VBCSCompiler.exe.config
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\Antlr3.Runtime.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AI.Web.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AI.WindowsServer.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.ApplicationInsights.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.Web.Infrastructure.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\Newtonsoft.Json.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\System.Diagnostics.DiagnosticSource.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\System.Web.Optimization.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\WebGrease.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\System.Web.Optimization.xml
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\Newtonsoft.Json.xml
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\Antlr3.Runtime.pdb
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\System.Diagnostics.DiagnosticSource.xml
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AI.WindowsServer.xml
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AI.Web.xml
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\obj\Debug\PertaminaSLA.csproj.CoreCompileInputs.cache
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\obj\Debug\PertaminaSLA.csproj.CopyComplete
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\obj\Debug\PertaminaSLA.dll
+c:\users\babeu\source\repos\PertaminaSLA\PertaminaSLA\obj\Debug\PertaminaSLA.pdb
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\ApplicationInsights.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\PertaminaSLA.dll.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\PertaminaSLA.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\PertaminaSLA.pdb
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\csc.exe
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\csc.exe.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\csc.rsp
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\csi.exe
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\csi.exe.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\csi.rsp
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.AppContext.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Console.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.IO.Compression.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Security.Claims.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.ValueTuple.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\vbc.exe
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\vbc.exe.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\vbc.rsp
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\VBCSCompiler.exe
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\Antlr3.Runtime.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AI.Web.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\Newtonsoft.Json.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\System.Web.Optimization.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\WebGrease.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\System.Web.Optimization.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\Newtonsoft.Json.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\Antlr3.Runtime.pdb
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.AI.Web.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\obj\Debug\PertaminaSLA.csprojAssemblyReference.cache
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\obj\Debug\PertaminaSLA.csproj.CoreCompileInputs.cache
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\obj\Debug\PertaminaSLA.csproj.CopyComplete
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\obj\Debug\PertaminaSLA.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA\PertaminaSLA\obj\Debug\PertaminaSLA.pdb
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\ApplicationInsights.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\PertaminaSLA.dll.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\PertaminaSLA.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\PertaminaSLA.pdb
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\csc.exe
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\csc.exe.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\csc.rsp
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\csi.exe
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\csi.exe.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\csi.rsp
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\System.AppContext.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\System.Console.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\System.IO.Compression.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\System.Security.Claims.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\System.ValueTuple.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\vbc.exe
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\vbc.exe.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\vbc.rsp
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\VBCSCompiler.exe
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\Antlr3.Runtime.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\Microsoft.AI.Web.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\Newtonsoft.Json.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\System.Web.Optimization.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\WebGrease.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\System.Web.Optimization.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\Newtonsoft.Json.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\Antlr3.Runtime.pdb
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\Microsoft.AI.Web.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\obj\Debug\PertaminaSLA.csproj.CoreCompileInputs.cache
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\obj\Debug\PertaminaSLA.csproj.CopyComplete
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\obj\Debug\PertaminaSLA.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\obj\Debug\PertaminaSLA.pdb
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20180110\PertaminaSLA\obj\Debug\PertaminaSLA.csprojAssemblyReference.cache
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\ApplicationInsights.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\PertaminaSLA.dll.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\PertaminaSLA.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\PertaminaSLA.pdb
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\csc.exe
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\csc.exe.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\csc.rsp
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\csi.exe
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\csi.exe.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\csi.rsp
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\System.AppContext.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\System.Console.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\System.IO.Compression.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\System.Security.Claims.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\System.ValueTuple.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\vbc.exe
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\vbc.exe.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\vbc.rsp
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\VBCSCompiler.exe
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\Antlr3.Runtime.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\Microsoft.AI.Web.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\Newtonsoft.Json.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\System.Web.Optimization.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\WebGrease.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\System.Web.Optimization.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\Newtonsoft.Json.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\Antlr3.Runtime.pdb
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\Microsoft.AI.Web.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\obj\Debug\PertaminaSLA.csproj.CoreCompileInputs.cache
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\obj\Debug\PertaminaSLA.csproj.CopyComplete
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\obj\Debug\PertaminaSLA.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\obj\Debug\PertaminaSLA.pdb
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181002\PertaminaSLA\obj\Debug\PertaminaSLA.csprojAssemblyReference.cache
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\ApplicationInsights.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\PertaminaSLA.dll.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\PertaminaSLA.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\PertaminaSLA.pdb
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\csc.exe
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\csc.exe.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\csc.rsp
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\csi.exe
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\csi.exe.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\csi.rsp
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\System.AppContext.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\System.Console.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\System.IO.Compression.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\System.Security.Claims.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\System.ValueTuple.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\vbc.exe
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\vbc.exe.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\vbc.rsp
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\VBCSCompiler.exe
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\Antlr3.Runtime.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\Microsoft.AI.Web.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\Newtonsoft.Json.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\System.Web.Optimization.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\WebGrease.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\System.Web.Optimization.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\Newtonsoft.Json.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\Antlr3.Runtime.pdb
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\Microsoft.AI.Web.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\obj\Debug\PertaminaSLA.csproj.CoreCompileInputs.cache
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\obj\Debug\PertaminaSLA.csproj.CopyComplete
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\obj\Debug\PertaminaSLA.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181004\PertaminaSLA\obj\Debug\PertaminaSLA.pdb
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\ApplicationInsights.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\PertaminaSLA.dll.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\PertaminaSLA.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\PertaminaSLA.pdb
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\csc.exe
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\csc.exe.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\csc.rsp
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\csi.exe
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\csi.exe.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\csi.rsp
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\System.AppContext.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\System.Console.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\System.IO.Compression.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\System.Security.Claims.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\System.ValueTuple.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\vbc.exe
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\vbc.exe.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\vbc.rsp
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\VBCSCompiler.exe
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\Antlr3.Runtime.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\Microsoft.AI.Web.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\Newtonsoft.Json.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\System.Web.Optimization.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\WebGrease.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\System.Web.Optimization.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\Newtonsoft.Json.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\Antlr3.Runtime.pdb
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\Microsoft.AI.Web.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\obj\Debug\PertaminaSLA.csproj.CoreCompileInputs.cache
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\obj\Debug\PertaminaSLA.csproj.CopyComplete
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\obj\Debug\PertaminaSLA.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\obj\Debug\PertaminaSLA.pdb
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181006\PertaminaSLA\obj\Debug\PertaminaSLA.csprojAssemblyReference.cache
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\ApplicationInsights.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\PertaminaSLA.dll.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\PertaminaSLA.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\PertaminaSLA.pdb
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\csc.exe
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\csc.exe.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\csc.rsp
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\csi.exe
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\csi.exe.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\csi.rsp
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\System.AppContext.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\System.Console.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\System.IO.Compression.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\System.Security.Claims.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\System.ValueTuple.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\vbc.exe
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\vbc.exe.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\vbc.rsp
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\VBCSCompiler.exe
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\Antlr3.Runtime.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\Microsoft.AI.Web.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\Newtonsoft.Json.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\System.Web.Optimization.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\WebGrease.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\System.Web.Optimization.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\Newtonsoft.Json.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\Antlr3.Runtime.pdb
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\Microsoft.AI.Web.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\obj\Debug\PertaminaSLA.csproj.CoreCompileInputs.cache
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\obj\Debug\PertaminaSLA.csproj.CopyComplete
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\obj\Debug\PertaminaSLA.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\obj\Debug\PertaminaSLA.pdb
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Babeu\Documents\Project\repos\PertaminaSLA - 20181010\PertaminaSLA\bin\roslyn\System.Security.Cryptography.Primitives.dll
